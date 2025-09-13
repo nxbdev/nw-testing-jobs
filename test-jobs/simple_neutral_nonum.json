@@ -1,0 +1,77 @@
+{
+"id": 412,
+"url": "https://www.google.com/search?gl=ie&hl=en&q=orange+desk",
+"fetcher_type": "search_keywords_priority",
+"data": {
+"engine": "google",
+"keyword_id": 412,
+"mobile": false,
+"strip_tags": true
+}
+},
+{
+"id": 2399,
+"url": "https://www.google.com/search?gl=ie&hl=en&q=apple+chair",
+"fetcher_type": "search_keywords_priority",
+"data": {
+"engine": "google",
+"keyword_id": 2399,
+"mobile": false,
+"strip_tags": true
+}
+},
+{
+"id": 57,
+"url": "https://www.google.com/search?gl=ie&hl=en&q=banana+lamp",
+"fetcher_type": "search_keywords_priority",
+"data": {
+"engine": "google",
+"keyword_id": 57,
+"mobile": false,
+"strip_tags": true
+}
+},
+{
+"id": 384,
+"url": "https://www.google.com/search?gl=ie&hl=en&q=blue+sofa",
+"fetcher_type": "search_keywords_priority",
+"data": {
+"engine": "google",
+"keyword_id": 384,
+"mobile": false,
+"strip_tags": true
+}
+},
+{
+"id": 226,
+"url": "https://www.google.com/search?gl=ie&hl=en&q=grape+basket",
+"fetcher_type": "search_keywords_priority",
+"data": {
+"engine": "google",
+"keyword_id": 226,
+"mobile": false,
+"strip_tags": true
+}
+},
+{
+"id": 93,
+"url": "https://www.google.com/search?gl=ie&hl=en&q=yellow+carpet",
+"fetcher_type": "search_keywords_priority",
+"data": {
+"engine": "google",
+"keyword_id": 93,
+"mobile": false,
+"strip_tags": true
+}
+},
+{
+"id": 3104,
+"url": "https://www.google.com/search?gl=ie&hl=en&q=cherry+table",
+"fetcher_type": "search_keywords_priority",
+"data": {
+"engine": "google",
+"keyword_id": 3104,
+"mobile": false,
+"strip_tags": true
+}
+}
