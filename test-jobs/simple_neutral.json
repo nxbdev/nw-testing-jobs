@@ -1,0 +1,77 @@
+{
+"id": 5234,
+"url": "https://www.google.ie/search?gl=ie&hl=en&num=100&q=orange+smoothie",
+"fetcher_type": "search_keywords",
+"data": {
+"engine": "google",
+"keyword_id": 5234,
+"mobile": false,
+"strip_tags": true
+}
+},
+{
+"id": 178,
+"url": "https://www.google.ie/search?gl=ie&hl=en&num=100&q=apple+pizza",
+"fetcher_type": "search_keywords",
+"data": {
+"engine": "google",
+"keyword_id": 178,
+"mobile": false,
+"strip_tags": true
+}
+},
+{
+"id": 4021,
+"url": "https://www.google.ie/search?gl=ie&hl=en&num=100&q=banana+cake",
+"fetcher_type": "search_keywords",
+"data": {
+"engine": "google",
+"keyword_id": 4021,
+"mobile": false,
+"strip_tags": true
+}
+},
+{
+"id": 94,
+"url": "https://www.google.ie/search?gl=ie&hl=en&num=100&q=blue+chair",
+"fetcher_type": "search_keywords",
+"data": {
+"engine": "google",
+"keyword_id": 94,
+"mobile": false,
+"strip_tags": true
+}
+},
+{
+"id": 301,
+"url": "https://www.google.ie/search?gl=ie&hl=en&num=100&q=grape+juice",
+"fetcher_type": "search_keywords",
+"data": {
+"engine": "google",
+"keyword_id": 301,
+"mobile": false,
+"strip_tags": true
+}
+},
+{
+"id": 67,
+"url": "https://www.google.ie/search?gl=ie&hl=en&num=100&q=yellow+lamp",
+"fetcher_type": "search_keywords",
+"data": {
+"engine": "google",
+"keyword_id": 67,
+"mobile": false,
+"strip_tags": true
+}
+},
+{
+"id": 2599,
+"url": "https://www.google.ie/search?gl=ie&hl=en&num=100&q=cherry+pie",
+"fetcher_type": "search_keywords",
+"data": {
+"engine": "google",
+"keyword_id": 2599,
+"mobile": false,
+"strip_tags": true
+}
+}
